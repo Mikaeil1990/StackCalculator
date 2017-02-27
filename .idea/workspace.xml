@@ -2,74 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="680eb169-47f6-4021-b671-9cf121d65993" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_integ.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_unittest.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/PIE.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/contactform/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/Portfolio-pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/Portfolio-pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/Portfolio-pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/Portfolio-pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/Portfolio-pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/Portfolio-pic6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/bg-map.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/c-liogo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/c-liogo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/c-liogo3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/c-liogo4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/c-liogo5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/client-pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/footer-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/iPad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/imac.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/list-style.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/macbook-pro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/pw_maze_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/pw_maze_black_2X.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/res_nav_click.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/section-bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/section-bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/small-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/team-leader-pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/team-leader-pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/team-leader-pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/img/wp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/classie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/html5element.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/jquery-scrolltofixed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/jquery.1.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/jquery.isotope.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/respond-1.1.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/js/wow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/second.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model/Stack.py" afterPath="$PROJECT_DIR$/Model/Stack.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.cfg" afterPath="$PROJECT_DIR$/app.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1425">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+              <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
               <folding>
                 <element signature="e#762#802#0" expanded="true" />
               </folding>
@@ -96,11 +30,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.cfg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.cfg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.cfg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -122,20 +66,10 @@
         <entry file="file://$PROJECT_DIR$/test/test_unittest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="96" lean-forward="true" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+              <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -222,6 +156,7 @@
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/test/test_unittest.py" />
         <option value="$PROJECT_DIR$/app.cfg" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -581,7 +516,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="23" width="1396" height="877" extended-state="6" />
+    <frame x="44" y="23" width="1396" height="877" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16945454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -589,9 +524,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40509555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40509555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866243" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32866243" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -789,7 +724,7 @@
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
-          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding>
             <element signature="e#762#802#0" expanded="true" />
           </folding>
@@ -825,7 +760,7 @@
     <entry file="file://$PROJECT_DIR$/test/test_unittest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="96" lean-forward="true" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -836,6 +771,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
       </provider>
