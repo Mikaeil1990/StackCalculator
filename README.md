@@ -1,6 +1,10 @@
 # StackCalculator
 
 This is a repository for a RESTful API backend using Flask framework.
+The app is already hosted on Heroku web server and can be accessed:
+
+* https://stack-calculator.herokuapp.com/
+
 
 ## End-points:
 * **/calc/:id/peek** :  returns stack[top]
